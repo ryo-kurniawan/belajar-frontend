@@ -9,7 +9,7 @@ const NewsPage = () => {
         
             <div className="w-full">
             <header className="w-full flex flex-col items-center my-5">
-            <h1 className="text-2xl font-bold text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam non praesentium ex suscipit repudiandae sit eveniet cupiditate a dicta, ea amet, sequi, laudantium officiis porro eos libero atque eum harum.</h1>
+            <h1 className="text-2xl font-bold text-justify">Lorem ipsum dolor sit amet.</h1>
             </header>
             <figure className="w-full">
             <img src="https://picsum.photos/400/400" alt="Placeholder" className="rounded-md w-full h-96 object-cover" />
