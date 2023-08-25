@@ -5,7 +5,7 @@ const Navbar = () => {
     const [showMobileMenu, setShowMobileMenu] = useState(false);
   return (
     <nav className="bg-white sticky top-0">
-      <div className="max-w-5xl lg:mx-60 mx-5 flex items-center justify-between h-16 drop-shadow-md">
+      <div className="max-w-5xl lg:mx-60 mx-5 md:mx-5 flex items-center justify-between h-16 drop-shadow-md">
         <div className="flex-shrink-0 font-bold tracking-wider">
           <Link to="/" className='hover:text-orange-400'>Ryo Kurniawan</Link>
         </div>
