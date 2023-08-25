@@ -5,7 +5,7 @@ const NewsPage = () => {
     <>
     <Navbar/>
     {/* Content */}
-    <div className="flex justify-center bg-white lg:mx-60 md:mx-10 sm:mx-10 mx-10  my-5">
+    <div className="flex justify-center bg-white lg:mx-60 md:mx-5 sm:mx-5 mx-5  my-5">
         
             <div className="w-full">
             <header className="w-full flex flex-col items-center my-5">
