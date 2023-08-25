@@ -8,8 +8,8 @@ const NewsPage = () => {
     <div className="flex justify-center bg-white lg:mx-60 md:mx-5 sm:mx-5 mx-5  my-5">
         
             <div className="w-full">
-            <header className="w-full flex flex-col items-center my-5">
-            <h1 className="text-2xl font-bold text-left">Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, quis.</h1>
+            <header className="w-full flex flex-col justify-start items-center my-5">
+            <h1 className="text-2xl font-bold font-display">Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, quis.</h1>
             </header>
             <figure className="w-full">
             <img src="https://picsum.photos/400/400" alt="Placeholder" className="rounded-md w-full h-96 object-cover" />
